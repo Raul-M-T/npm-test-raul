@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-raul",
+  "version": "1.0.0",
+  "description": "Repositorio de prueba para la creacion de un paquete npm G3 del diplomado del internet de las cosas edu.codigoiot.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raul-M-T/npm-test-raul.git"
+  },
+  "author": "Raul M T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raul-M-T/npm-test-raul/issues"
+  },
+  "homepage": "https://github.com/Raul-M-T/npm-test-raul#readme"
+}
